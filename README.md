@@ -1,2 +1,3 @@
 # constructor-word-guess
-Javascript hangman application deployed through node.js
+
+A Word Guess command-line game using constructor functions, utilizing node.js as the CLI to play the game.
